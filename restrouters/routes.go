@@ -1,9 +1,9 @@
 package restrouters
 
 import (
-	utils "Pay-AI/financial-transaction-server/financial-transaction-server/Utils"
-	"Pay-AI/financial-transaction-server/financial-transaction-server/loadbalancer"
-	authmech "Pay-AI/financial-transaction-server/financial-transaction-server/restrouters/AuthMech"
+	utils "Pay-AI/financial-transaction-server/Utils"
+	"Pay-AI/financial-transaction-server/loadbalancer"
+	authmech "Pay-AI/financial-transaction-server/restrouters/AuthMech"
 
 	"github.com/gin-gonic/gin"
 )

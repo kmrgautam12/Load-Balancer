@@ -1,7 +1,7 @@
 package authmech
 
 import (
-	"Pay-AI/financial-transaction-server/financial-transaction-server/constantservice"
+	"Pay-AI/financial-transaction-server/constantservice"
 	"crypto/rand"
 	"crypto/rsa"
 	"crypto/x509"

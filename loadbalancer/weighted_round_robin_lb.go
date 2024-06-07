@@ -1,7 +1,7 @@
 package loadbalancer
 
 import (
-	"Pay-AI/financial-transaction-server/financial-transaction-server/constantservice"
+	"Pay-AI/financial-transaction-server/constantservice"
 	"net/url"
 	"sync"
 )

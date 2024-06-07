@@ -1,7 +1,7 @@
 package constantservice
 
 import (
-	utils "Pay-AI/financial-transaction-server/financial-transaction-server/Utils"
+	utils "Pay-AI/financial-transaction-server/Utils"
 	"net/url"
 )
 
